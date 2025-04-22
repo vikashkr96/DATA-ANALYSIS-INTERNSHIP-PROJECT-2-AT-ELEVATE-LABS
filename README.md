@@ -1,1 +1,1 @@
-# DATA-ANALYSIS-INTERNSHIP-PROJECT-2-AT-ELEVATE-LABS
+![Project Image](project_1.png)

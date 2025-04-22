@@ -1,1 +1,1 @@
-![Project Image](project_1.png)
+![Project Image](super_store_sales_dashboard.png)
